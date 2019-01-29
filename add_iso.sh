@@ -1,5 +1,6 @@
 #!/bin/bash
 # Outdated !
+#replace urls with up to date repos
 #Get latest iso of Centos 7, Debian Jessie and Ubuntu Xenial.
 os=$1
 parameters="$#"
