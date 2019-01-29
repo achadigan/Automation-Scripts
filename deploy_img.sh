@@ -11,6 +11,7 @@ network=$2
 profile=$3
 parameters=$#
 
+#usage depends on the passthrough nested repo
 
 usage_message () {
 ## Usage message
