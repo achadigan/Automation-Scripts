@@ -19,7 +19,7 @@ echo "Profiles available : xsmall, small, medium, big, desktop"
 echo "centos7 is the image name by default if ommited"
 echo "Please download one of those images in /var/lib/libvirt/images :"
 for x in $imagename ; do
-echo "https://get.goffinet.org/kvm/${x}.qcow2"
+echo "https://ftp.redhat.com/KVMrepo";
 done
 }
 
